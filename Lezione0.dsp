@@ -1,5 +1,7 @@
 // il testo che segue è un programma di faust
-// faust è un linguggio di programmazione funzionale  
+// faust è un linguggio di programmazione funzionale 
+// un linguaggio di programmazione funzionale produce una sola tipologia di prodotti
+// faust genera prodotti per il dsp
 // dsp = digital signal processing
 // un commento è uma riga di codice ignorata dal compilatore
 // ogni riga di faust temina con un carattere ;
